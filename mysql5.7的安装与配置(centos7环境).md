@@ -206,8 +206,3 @@ export PATH=$JAVA_HOME/bin:/usr/local/mysql/bin:$PATH
 ```
 
 至此,mysql5.7的安装就完成了!!!
-
-___
-
-**如果您喜欢这篇文章就请关注我的博客和朋友一起分享吧！**  
-**关注我: ☛** [http://blog.csdn.net/yougoule](http://blog.csdn.net/yougoule)
