@@ -74,6 +74,9 @@ character_set_server=utf8
 ```
 basedir=/usr/local/mysql
 datadir=/usr/local/mysql/data
+如果mysql的配置文件my.cnf的路径不在默认的地方，可以手动在这个文件中指定路径
+大约在207行的位置指定,例如如下配置：
+conf=/mysql/3306/my.cnf
 ```
 
 #### 5、出于安全便利，创建一个操作数据库的专门用户
